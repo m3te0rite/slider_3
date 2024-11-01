@@ -372,7 +372,7 @@ header nav a{
     width: 500px;
     height: 300px;
     content: '';
-    background-image: linear-gradient(70deg, #DC422A, blue);
+    background-image: linear-gradient(70deg, #ff2200, #ffa852);
     position: absolute;
     z-index: -1;
     border-radius: 20% 30% 80% 10%;
